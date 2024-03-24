@@ -1,0 +1,8 @@
+.fa-star {
+    color: gray;
+    cursor: pointer;
+}
+
+.fa-star:hover, .fa-star.active {
+    color: orangered;
+}
