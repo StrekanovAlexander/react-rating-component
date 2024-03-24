@@ -1,1 +1,2 @@
-# react-rating-component
+# Rating component
+Implemented on ReactJS
